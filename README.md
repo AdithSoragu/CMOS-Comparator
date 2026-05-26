@@ -43,7 +43,6 @@ Transient simulation results of the comparator.
 
 <img width="1240" height="699" alt="image" src="https://github.com/user-attachments/assets/eb9ad172-8794-4105-a3c8-cb63e617991d" />
 
-
 ## Project Team
 This project was carried out as a group mini-project.
 
